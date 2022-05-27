@@ -9,8 +9,3 @@ olá! obrigado por está aqui.
 - Ovo frito
 
 - mousse de limão
-  
-  
-  =======
-
-
