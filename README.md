@@ -1,9 +1,13 @@
-# livro de receitas :man_cook:
+# :book:Livro de receitas:man_cook:
 
-olá! bem vindo ao meu livro de receitas:wave:
+olá! obrigado por está aqui.
 
-- macarrão
+## índice
 
-- pudim
+- Macarrão com queijo
 
-- 
+- Ovo frito
+
+- Miojo
+
+
