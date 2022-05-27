@@ -8,6 +8,4 @@ olá! obrigado por está aqui.
 
 - Ovo frito
 
-- Miojo
-
-
+- mousse de limão
