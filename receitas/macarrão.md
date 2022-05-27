@@ -2,14 +2,21 @@
 
 ## ingredientes
 
-1 pacote de macarrão parafuso
-1 lata de creme de leite
-200 gramas de muçarela
-100 gramas de queijo ralado
-2 colheres de manteiga
-Sal a gosto
-Meia xícara de leite
-Óleo ou azeite para cozinhar o macarrão
+- 1 pacote de macarrão parafuso
+
+- 1 lata de creme de leite
+
+- 200 gramas de muçarela
+
+- 100 gramas de queijo ralado
+
+- 2 colheres de manteiga
+
+- Sal a gosto
+
+- Meia xícara de leite
+
+- Óleo ou azeite para cozinhar o macarrão
 
 ## Modo de Preparo
 
